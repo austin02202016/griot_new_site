@@ -25,7 +25,7 @@ export default function Home() {
         <Stats />
         <Services />
         {/* <FeaturedTweets /> */}
-      
+        {/* <IndividualCarousel /> */}
         <CaseStudies />
 
         <About />
